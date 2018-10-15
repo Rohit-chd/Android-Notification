@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "203976237039",
+    "firebase_url": "https://notification-test-74a22.firebaseio.com",
+    "project_id": "notification-test-74a22",
+    "storage_bucket": "notification-test-74a22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203976237039:android:4d23df733a9d22ef",
+        "android_client_info": {
+          "package_name": "com.example.rohit.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203976237039-4g4fehkm0msuetgip1nntm4rbkgchuuj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohit.myapplication",
+            "certificate_hash": "a92b04c2054f910d981b6bf9f3a6cdaa35bf35f6"
+          }
+        },
+        {
+          "client_id": "203976237039-gadfnuvvgivvbs28s470ledod114f55b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYb0lseXWnZaRqZ-COBcMmPXfcAn1QWrQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203976237039-gadfnuvvgivvbs28s470ledod114f55b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
